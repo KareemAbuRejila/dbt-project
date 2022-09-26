@@ -1,0 +1,567 @@
+30;male;Chaohu City, Hefei City;Anhui;China;31.64696;117.7166;20.01.2020;22.01.2020;yes
+47;male;Baohe District, Hefei City;Anhui;China;31.77863;117.3319;21.01.2020;23.01.2020;no
+49;male;High-Tech Zone, Hefei City;Anhui;China;31.828313;117.224844;20.01.2020;23.01.2020;no
+47;female;High-Tech Zone, Hefei City;Anhui;China;31.828313;117.224844;20.01.2020;23.01.2020;no
+50;female;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;21.01.2020;23.01.2020;no
+42;female;Fuyang City;Anhui;China;32.9188;115.7036;21.01.2020;22.01.2020;no
+;female;Huaibei City;Anhui;China;33.72722;116.7424;;25.01.2020;no
+59;female;Huainan City;Anhui;China;32.75738;116.734;24.01.2020;26.01.2020;yes
+30;male;Hefei City;Anhui;China;31.79444;117.3428;22.01.2020;23.01.2020;yes
+39;male;Fuyang City;Anhui;China;32.9188;115.7036;20.01.2020;23.01.2020;no
+38;female;Chizhou City;Anhui;China;30.28525;117.3658;22.01.2020;23.01.2020;yes
+45;male;Bengbu City;Anhui;China;33.10901;117.326;21.01.2020;27.01.2020;yes
+33;female;Changping District;Beijing;China;40.20789;116.2063;20.01.2020;22.01.2020;yes
+;female;Daxing District;Beijing;China;39.64238;116.4172;08.01.2020;21.01.2020;no
+37;male;Fengtai District;Beijing;China;39.8306;116.2499;20.01.2020;21.01.2020;business trip
+39;male;Haidian District;Beijing;China;40.02186;116.2285;14.01.2020;21.01.2020;business trip
+32;female;Haidian District;Beijing;China;40.02186;116.2285;20.01.2020;21.01.2020;travel
+45;male;Shijingshan District;Beijing;China;39.92715;116.1737;21.01.2020;22.01.2020;no
+45;male;Shijingshan District;Beijing;China;39.92715;116.1737;21.01.2020;23.01.2020;no
+18;female;Tongzhou District;Beijing;China;39.80292;116.7363;20.01.2020;21.01.2020;study trip
+56;female;Xicheng District;Beijing;China;39.91093;116.3591;20.01.2020;21.01.2020;business trip
+42;male;Xicheng District;Beijing;China;39.91093;116.3591;20.01.2020;22.01.2020;no
+33;female;;Beijing;China;40.18535;116.4151;20.01.2020;22.01.2020;yes
+30;female;Fuzhou City;Fujian;China;26.05196;119.1789;;23.01.2020;yes
+70;male;Fuzhou City;Fujian;China;26.05196;119.1789;20.01.2020;22.01.2020;yes
+43;female;Ningde City;Fujian;China;26.97674;119.4745;21.01.2020;23.01.2020;N/A
+31;male;Xiamen City;Fujian;China;24.67595;118.1138;21.01.2020;23.01.2020;N/A
+N/A;;Fuzhou City;Fujian;China;26.05196;119.1789;;24.01.2020;return from Wuhan
+N/A;;Fuzhou City;Fujian;China;26.05196;119.1789;;24.01.2020;return from Wuhan
+N/A;;Fuzhou City;Fujian;China;26.05196;119.1789;;24.01.2020;return from Wuhan
+N/A;;Xiamen City;Fujian;China;24.67595;118.1138;;24.01.2020;return from Wuhan
+N/A;;Xiamen City;Fujian;China;24.67595;118.1138;;24.01.2020;return from Wuhan
+43;male;Lanzhou City;Gansu;China;36.35126;103.6554;21.01.2020;23.01.2020;no
+24;male;Baiyin City;Gansu;China;36.61864;104.6208;22.01.2020;23.01.2020;work in Wuhan
+40;male;Foshan City;Guangdong;China;23.0131;112.9444;20.01.2020;22.01.2020;no
+66;male;Shenzhen City;Guangdong;China;22.65389;114.1291;10.01.2020;19.01.2020;no
+65;female;Shenzhen City;Guangdong;China;22.65389;114.1291;10.01.2020;21.01.2020;no
+36;male;Shenzhen City;Guangdong;China;22.65389;114.1291;11.01.2020;21.01.2020;no
+10;male;Shenzhen City;Guangdong;China;22.65389;114.1291;11.01.2020;21.01.2020;no
+63;female;Shenzhen City;Guangdong;China;22.65389;114.1291;15.01.2020;21.01.2020;no
+37;female;Shenzhen City;Guangdong;China;22.65389;114.1291;11.01.2020;21.01.2020;no
+78;male;Zhuhai City;Guangdong;China;22.16925;113.361;;20.01.2020;yes
+76;female;Zhuhai City;Guangdong;China;22.16925;113.361;;20.01.2020;yes
+48;female;Zhuhai City;Guangdong;China;22.16925;113.361;;20.01.2020;no
+66;female;Zhuhai City;Guangdong;China;22.16925;113.361;19.01.2020;21.01.2020;no
+66;female;Beihai City;Guangxi;China;21.67666;109.328;17.01.2020;22.01.2020;yes
+63;male;Beihai City;Guangxi;China;21.67666;109.328;21.01.2020;22.01.2020;yes
+62;female;Beihai City;Guangxi;China;21.67666;109.328;21.01.2020;22.01.2020;yes
+49;male;Liuzhou City;Guangxi;China;24.95009;109.371;21.01.2020;22.01.2020;yes
+46;male;Wuzhou City;Guangxi;China;23.48172;110.9909;21.01.2020;22.01.2020;no
+34;male;Guilin City;Guangxi;China;25.35865;110.5145;22.01.2020;24.01.2020;yes
+41;male;Guilin City;Guangxi;China;25.35865;110.5145;23.01.2020;24.01.2020;yes
+72;female;Beihai City;Guangxi;China;21.67666;109.328;19.01.2020;24.01.2020;yes
+20;female;Beihai City;Guangxi;China;21.67666;109.328;22.01.2020;24.01.2020;yes
+54;male;Beihai City;Guangxi;China;21.67666;109.328;22.01.2020;24.01.2020;yes
+33;female;Baise City;Guangxi;China;23.98862;106.2863;21.01.2020;24.01.2020;yes
+49;female;Hechi City;Guangxi;China;24.64574;107.8409;22.01.2020;24.01.2020;yes
+42;male;Liuzhou City;Guangxi;China;24.95009;109.371;21.01.2020;24.01.2020;no
+33;male;Hechi City;Guangxi;China;24.64574;107.8409;21.01.2020;24.01.2020;no
+2;female;Hechi City;Guangxi;China;24.64574;107.8409;23.01.2020;24.01.2020;yes
+29;male;Fangchenggang City;Guangxi;China;21.88401;107.9967;23.01.2020;24.01.2020;no
+62;male;Fangchenggang City;Guangxi;China;21.88401;107.9967;23.01.2020;24.01.2020;no
+61;male;Yulin City;Guangxi;China;22.44296;110.182;22.01.2020;24.01.2020;yes
+20;male;Guiding County, Qiannan Prefecture;Guizhou;China;26.43055;107.1928;18.01.2020;22.01.2020;no
+50;female;Tongren City;Guizhou;China;27.97374;108.5408;21.01.2020;22.01.2020;no
+72;male;Shijiazhuang City;Hebei;China;38.13361;114.4384;19.01.2020;23.01.2020;yes
+80;male;Cangzhou City;Hebei;China;38.26855;116.7593;;23.01.2020;lived in Wuhan for two months and then went back to Cangzhou
+49;male;Harbin City;Heilongjiang;China;45.64657;127.9588;22.01.2020;23.01.2020;no
+69;male;Mudanjiang City;Heilongjiang;China;44.6065;129.8858;12.01.2020;23.01.2020;no
+66;male;Zhengzhou City;Henan;China;34.62931;113.468;;21.01.2020;yes
+32;female;Sanmenxia City;Henan;China;34.36358;111.1065;18.01.2020;22.01.2020;yes
+28;male;Luoyang City;Henan;China;34.2936;112.0323;9.01.2020;22.01.2020;no
+55;male;Zhengzhou City;Henan;China;34.62931;113.468;11.01.2020;22.01.2020;used to be
+68;male;Zhengzhou City;Henan;China;34.62931;113.468;13.01.2020;22.01.2020;no
+30;female;Zhengzhou City;Henan;China;34.62931;113.468;20.01.2020;23.01.2020;no
+34;female;Xinxiang City;Henan;China;35.26547;114.084;21.01.2020;23.01.2020;no
+30;female;Zhengzhou City;Henan;China;34.62931;113.468;;;no
+50;male;Zhoukou City;Henan;China;33.72386;114.8773;21.01.2020;23.01.2020;no
+39;male;Hong Kong;Hong Kong;China;22.38074;114.1324;21.01.2020;22.01.2020;yes
+56;male;Hong Kong;Hong Kong;China;22.38074;114.1324;21.01.2020;22.01.2020;no
+57;female;Changsha City;Hunan;China;28.22759;113.1532;16.01.2020;21.01.2020;yes
+35;female;Hecheng District, Huaihua City;Hunan;China;27.64106;109.9751;;22.01.2020;no
+40;female;Hecheng District, Huaihua City;Hunan;China;27.64106;109.9751;;22.01.2020;no
+30;male;Hecheng District, Huaihua City;Hunan;China;27.64106;109.9751;;22.01.2020;no
+30;male;Manzhouli City, Hulunbuir City;Inner Mongolia;China;49.53241;117.4943;21.01.2020;24.01.2020;yes
+37;male;Suzhou City;Jiangsu;China;31.37802;120.6418;10.01.2020;22.01.2020;no
+56;male;Dongxiang County, Fuzhou City;Jiangxi;China;28.21876;116.6081;10.01.2020;21.01.2020;no
+50;male;Xiangdong District, Pingxiang City;Jiangxi;China;27.50699;113.7218;10.01.2020;21.01.2020;work in Wuhan
+27;male;Ganzhou City;Jiangxi;China;25.71368;115.2745;21.01.2020;24.01.2020;yes
+40;female;Ganzhou City;Jiangxi;China;25.71368;115.2745;22.01.2020;24.01.2020;yes
+33;male;Dalian City;Liaoning;China;39.59944;122.2224;17.01.2020;22.01.2020;yes
+40;male;Shenyang City;Liaoning;China;42.10012;123.1391;19.01.2020;22.01.2020;Xiantao City resident
+50;female;Shenyang City;Liaoning;China;42.10012;123.1391;22.01.2020;23.01.2020;no
+42;male;Chaoyang City;Liaoning;China;41.51421;120.0166;22.01.2020;23.01.2020;no
+66;male;Border Checkpoint;Macau;China;22.166667;113.55;;23.01.2020;yes
+52;female;Landmark Hotel;Macau;China;22.166667;113.55;;21.01.2020;yes
+29;male;Yinchuan City;Ningxia;China;38.2349;106.3496;19.01.2020;22.01.2020;no, work in Wuhan
+28;male;Zhongwei City;Ningxia;China;37.0548;105.4777;21.01.2020;23.01.2020;no
+22;male;Xi'an City;Shaanxi;China;34.10727;108.7872;21.01.2020;23.01.2020;medical trip
+32;female;Xi'an City;Shaanxi;China;34.10727;108.7872;20.01.2020;23.01.2020;business trip
+42;male;Xianyang City;Shaanxi;China;34.78867;108.3897;21.01.2020;23.01.2020;business trip
+49;male;Ankang City;Shaanxi;China;32.76183;108.9258;21.01.2020;24.01.2020;no
+38;male;Weihai City;Shandong;China;37.12174;121.9821;20.01.2020;22.01.2020;no
+62;female;Linyi City;Shandong;China;35.31235;118.2809;21.01.2020;22.01.2020;no
+65;male;Linyi City;Shandong;China;35.31235;118.2809;21.01.2020;22.01.2020;no
+56;female;;Shanghai;China;31.2045;121.4555;15.01.2020;20.01.2020;yes
+35;male;;Shanghai;China;31.2045;121.4555;16.01.2020;20.01.2020;shanghai resident, travel history
+;;;Shanghai;China;31.2045;121.4555;;20.01.2020;no
+;male;Taiyuan City;Shanxi;China;37.96001;112.3157;20.01.2020;22.01.2020;no
+31;male;Chengdu City;Sichuan;China;30.70291;103.8256;;21.01.2020;yes
+50;male;Chengdu City;Sichuan;China;30.70291;103.8256;18.01.2020;23.01.2020;no
+48;male;Chengdu City;Sichuan;China;30.70291;103.8256;18.01.2020;23.01.2020;no
+36;male;Dazhou City;Sichuan;China;31.37014;107.6465;20.01.2020;23.01.2020;no
+37;male;Mianyang City;Sichuan;China;31.8534;104.7008;20.01.2020;22.01.2020;no
+19;male;Mianyang City;Sichuan;China;31.8534;104.7008;20.01.2020;22.01.2020;no
+60;female;Tianjin City;Tianjin;China;39.29713;117.3333;19.01.2020;21.01.2020;tourism
+58;male;Tianjin City;Tianjin;China;39.29713;117.3333;14.01.2020;21.01.2020;business trip
+47;male;Urumqi City;Xinjiang;China;43.73043;87.78531;20.01.2020;23.01.2020;study trip
+52;male;Urumqi City;Xinjiang;China;43.73043;87.78531;19.01.2020;23.01.2020;no
+51;male;Kunming City;Yunnan;China;25.39236;102.8739;16.01.2020;21.01.2020;yes
+53;male;Kunming City;Yunnan;China;25.39236;102.8739;22.01.2020;23.01.2020;yes
+46;male;Wenzhou City;Zhejiang;China;27.90538;120.4404;04.01.2020;21.01.2020;yes
+46;male;Wenzhou City;Zhejiang;China;27.90538;120.4404;17.01.2020;21.01.2020;yes
+40;female;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;21.01.2020;24.01.2020;no
+51;male;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;21.01.2020;24.01.2020;no
+37;male;Lujiang County, Hefei City;Anhui;China;31.26968;117.32;22.01.2020;25.01.2020;no
+32;male;Hefei City;Anhui;China;31.79444;117.3428;22.01.2020;25.01.2020;yes
+24;male;Hefei City;Anhui;China;31.79444;117.3428;21.01.2020;25.01.2020;yes
+39;male;Lujiang County, Hefei City;Anhui;China;31.26968;117.32;24.01.2020;25.01.2020;yes
+25;female;Fuyang City;Anhui;China;32.9188;115.7036;22.01.2020;24.01.2020;yes
+56;male;Fuyang City;Anhui;China;32.9188;115.7036;22.01.2020;24.01.2020;no
+44;male;Fuyang City;Anhui;China;32.9188;115.7036;;24.01.2020;yes
+50;male;Fuyang City;Anhui;China;32.9188;115.7036;20.01.2020;24.01.2020;yes
+42;male;Fuyang City;Anhui;China;32.9188;115.7036;22.01.2020;24.01.2020;yes
+43;male;Fuyang City;Anhui;China;32.9188;115.7036;23.01.2020;25.01.2020;yes
+22;male;Fuyang City;Anhui;China;32.9188;115.7036;23.01.2020;25.01.2020;yes
+43;male;Fuyang City;Anhui;China;32.9188;115.7036;23.01.2020;25.01.2020;no
+51;male;Bozhou City;Anhui;China;33.43671;116.1808;21.01.2020;25.01.2020;yes
+38;male;Bozhou City;Anhui;China;33.43671;116.1808;22.01.2020;25.01.2020;yes
+59;male;Bozhou City;Anhui;China;33.43671;116.1808;21.01.2020;25.01.2020;yes
+60;male;Bozhou City;Anhui;China;33.43671;116.1808;22.01.2020;25.01.2020;yes
+35;male;Bozhou City;Anhui;China;33.43671;116.1808;22.01.2020;25.01.2020;no
+25;female;Bozhou City;Anhui;China;33.43671;116.1808;23.01.2020;25.01.2020;yes
+26;male;Datong City;Shanxi;China;39.9064;113.7186;;25.01.2020;yes
+64;female;Xi'an City;Shaanxi;China;34.10727;108.7872;20.01.2020;25.01.2020;yes
+28;male;Ankang City;Shaanxi;China;32.76183;108.9258;23.01.2020;25.01.2020;yes
+41;male;Ankang City;Shaanxi;China;32.76183;108.9258;23.01.2020;25.01.2020;no
+42;female;Luoping County, Qujing City;Yunnan;China;24.98012;104.3416;23.01.2020;25.01.2020;yes
+24;male;Yuxi City;Yunnan;China;24.14295;102.2032;22.01.2020;25.01.2020;yes
+32;female;Mengzi City, Honghe Prefecture;Yunnan;China;23.33841;103.4879;24.01.2020;25.01.2020;yes
+34;male;Dali Prefecture;Yunnan;China;25.73038;100.037;23.01.2020;25.01.2020;yes
+63;male;Lijiang City;Yunnan;China;26.94233;100.5235;23.01.2020;25.01.2020;yes
+58;male;Kunming City;Yunnan;China;25.39236;102.8739;24.01.2020;25.01.2020;yes
+49;male;Urumqi City;Xinjiang;China;43.73043;87.78531;;25.01.2020;no
+48;male;Bordeaux;Nouvelle-Aquitaine;France;44.8378;-0.5792;23.01.2020;24.01.2020;no
+30;female;Paris;Ile-de-France;France;48.8566;2.3522;24.01.2020;24.01.2020;yes
+31;male;Paris;Ile-de-France;France;48.8566;2.3522;24.01.2020;24.01.2020;yes
+40;male;Narita Airport;Tokyo;Japan;35.76528;140.3856;20.01.2020;24.01.2020;yes
+30;male;;Tokyo;Japan;35.71145;139.4468;10.01.2020;15.01.2020;no
+30-39;female;;Tokyo;Japan;35.71145;139.4468;23.01.2020;25.01.2020;yes
+32;male;Kathmandu;;Nepal;27.7172;85.324;13.01.2020;24.01.2020;yes
+66;male;Singapore General Hospital;;Singapore;1.280224;103.8345;22.01.2020;23.01.2020;yes
+53;female;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;22.01.2020;24.01.2020;yes
+37;male;;;Singapore;1.35346;103.8151;23.01.2020;24.01.2020;yes
+35;female;Incheon Airport;;South Korea;37.462026;126.443389;19.01.2020;20.01.2020;yes
+73;female;;Nakhon Pathom;Thailand;13.92591;100.1057;;22.01.2020;thai national
+68;male;;Nonthaburi;Thailand;13.92265;100.3943;19.01.2020;22.01.2020;Chinese
+61;female;Bangkok;Bangkok Metropolis;Thailand;13.76658;100.5363;08.01.2020;12.01.2020;yes
+74;female;Bangkok;Bangkok Metropolis;Thailand;13.76658;100.5363;13.01.2020;17.01.2020;yes
+60;female;Chicago;Illinois;United States;41.8781;-87.6298;;24.01.2020;no
+35;male;Snohomish County;Washington;United States;48.04805;-121.697;19.01.2020;20.01.2020;no
+66;male;Nha Trang;Khanh Hoa;Vietnam;12.2388;109.1967;22.01.2020;23.01.2020;no
+28;male;Nha Trang;Khanh Hoa;Vietnam;12.2388;109.1967;22.01.2020;23.01.2020;no
+40;male;;Johor;Malaysia;2.050613;103.3899;;25.01.2020;yes
+36;male;Sengkang General Hospital;;Singapore;1.395495;103.8934;24.01.2020;25.01.2020;yes
+54;male;Seoul;Seoul;South Korea;37.56667;126.9667;25.01.2020;26.01.2020;yes
+56;male;Toronto;Ontario;Canada;43.667256;-79.391815;23.01.2020;25.01.2020;no
+40;male;;Tokyo;Japan;35.71145;139.4468;24.01.2020;26.01.2020;yes
+43;male;Ma'anshan City;Anhui;China;31.62885;118.356;22.01.2020;25.01.2020;yes
+48;female;Ma'anshan City;Anhui;China;31.62885;118.356;23.01.2020;25.01.2020;yes
+54;female;Ma'anshan City;Anhui;China;31.62885;118.356;22.01.2020;25.01.2020;yes
+47;male;Ma'anshan City;Anhui;China;31.62885;118.356;23.01.2020;25.01.2020;yes
+55;male;Ma'anshan City;Anhui;China;31.62885;118.356;24.01.2020;26.01.2020;no
+47;female;Ma'anshan City;Anhui;China;31.62885;118.356;24.01.2020;26.01.2020;yes
+46;female;Ma'anshan City;Anhui;China;31.62885;118.356;22.01.2020;26.01.2020;yes
+N/A;N/A;Chuzhou City;Anhui;China;32.54543;118.1027;;24.01.2020;yes
+NA;N/A;Huangshan City;Anhui;China;29.90755;118.0713;;26.01.2020;no
+70;female;Tongchuan City;Shaanxi;China;35.19603;109.0307;;26.01.2020;yes
+52;female;Tongchuan City;Shaanxi;China;35.19603;109.0307;;26.01.2020;no
+58;female;;Macau;China;22.15891;113.5611;;26.01.2020;yes
+39;female;;Macau;China;22.15891;113.5611;;26.01.2020;yes
+21;female;;Macau;China;22.15891;113.5611;;26.01.2020;yes
+50-59;female;;Taiwan;;23.75947;120.9559;25.01.2020;26.01.2020;no
+42;male;Xining City;Qinghai;China;36.82615;101.4437;24.01.2020;26.01.2020;1
+38;female;Xining City;Qinghai;China;36.82615;101.4437;24.01.2020;26.01.2020;1
+7;male;Xining City;Qinghai;China;36.82615;101.4437;24.01.2020;26.01.2020;1
+;;Los Angeles;California;United States;34.05;-118.25;22.01.2020;26.01.2020;yes
+N/A;N/A;Tempe, Maricopa County;Arizona;United States;33.41278;-111.943;;26.01.2020;no
+68;female;Hong Kong;Hong Kong;China;22.38074;114.1324;25.01.2020;26.01.2020;no
+60;male;Sihanoukville City;Sihanoukville;Cambodia;10.633333;103.5;26.01.2020;27.01.2020;yes
+44;female;Bengbu City;Anhui;China;33.10901;117.326;24.01.2020;27.01.2020;yes
+53;male;Bengbu City;Anhui;China;33.10901;117.326;19.01.2020;27.01.2020;live in Hangzhou
+39;male;Ankang City;Shaanxi;China;32.76183;108.9258;23.01.2020;27.01.2020;no
+41;female;Ankang City;Shaanxi;China;32.76183;108.9258;22.01.2020;27.01.2020;yes
+31;female;Ankang City;Shaanxi;China;32.76183;108.9258;21.01.2020;27.01.2020;no
+27;male;Ankang City;Shaanxi;China;32.76183;108.9258;24.01.2020;27.01.2020;yes
+34;male;Liupanshui City;Guizhou;China;26.13623;104.8908;;27.01.2020;1
+22;female;Qiannan Prefecture;Guizhou;China;26.0176;107.2502;;27.01.2020;1
+52;female;;Taiwan;;23.75947;120.9559;25.01.2020;27.01.2020;yes
+56;female;;;Singapore;1.35346;103.8151;26.01.2020;27.01.2020;yes
+33;male;Starnberg;Bavaria;Germany;47.99722;11.34056;;27.01.2020;no
+23;female;Fuzhou City;Jiangxi;China;27.51128;116.4344;24.01.2020;27.01.2020;yes
+28;male;Huainan City;Anhui;China;32.75738;116.734;25.01.2020;26.01.2020;yes
+49;female;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;24.01.2020;27.01.2020;0
+25;female;Baohe District, Hefei City;Anhui;China;31.77863;117.3319;;27.01.2020;1
+40;male;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;24.01.2020;27.01.2020;0
+60-69;male;;Nara Prefecture;Japan;34.3184;135.8717;25.01.2020;28.01.2020;no
+40-49;female;;Hokkaido;Japan;43.402;142.5571;27.01.2020;28.01.2020;yes
+;female;Xishuangbanna Prefecture;Yunnan;China;21.93139;100.9477;23.01.2020;27.01.2020;1
+36;male;Xi'an City;Shaanxi;China;34.10727;108.7872;25.01.2020;28.01.2020;yes
+41;female;Baoji City;Shaanxi;China;34.38244;107.2001;;28.01.2020;no
+25;male;Xi'an City;Shaanxi;China;34.10727;108.7872;22.01.2020;28.01.2020;yes
+46;female;Baoji City;Shaanxi;China;34.38244;107.2001;18.01.2020;28.01.2020;no
+50;male;Baoji City;Shaanxi;China;34.38244;107.2001;25.01.2020;28.01.2020;no
+36;female;Weinan City;Shaanxi;China;34.95553;109.8585;26.01.2020;28.01.2020;yes
+36;male;Weinan City;Shaanxi;China;34.95553;109.8585;26.01.2020;28.01.2020;yes
+32;female;Shangluo City;Shaanxi;China;33.6493;109.9016;26.01.2020;28.01.2020;no
+64;male;Hanzhong City;Shaanxi;China;33.0928;107.1014;25.01.2020;28.01.2020;no
+70;male;Xi'an City;Shaanxi;China;34.10727;108.7872;26.01.2020;28.01.2020;no
+25;male;Ankang City;Shaanxi;China;32.76183;108.9258;25.01.2020;28.01.2020;yes
+;;Xiamen City;Fujian;China;24.67595;118.1138;;27.01.2020;yes
+;;Fuzhou City;Fujian;China;26.05196;119.1789;;28.01.2020;yes
+27-40;male;Starnberg;Bavaria;Germany;47.99722;11.34056;;28.01.2020;no
+27-40;male;Starnberg;Bavaria;Germany;47.99722;11.34056;;28.01.2020;no
+33;female;Starnberg;Bavaria;Germany;47.99722;11.34056;;28.01.2020;no
+5;male;Fuzhou City;Jiangxi;China;27.51128;116.4344;23.01.2020;28.01.2020;yes
+50;male;;Taiwan;;23.75947;120.9559;25.01.2020;28.01.2020;no
+22;male;Hefei City;Anhui;China;31.79444;117.3428;23.01.2020;28.01.2020;no
+22;male;Hefei City;Anhui;China;31.79444;117.3428;25.01.2020;28.01.2020;no
+22;female;Hefei City;Anhui;China;31.79444;117.3428;27.01.2020;28.01.2020;no
+22;male;Hefei City;Anhui;China;31.79444;117.3428;25.01.2020;28.01.2020;no
+24;male;Hefei City;Anhui;China;31.79444;117.3428;25.01.2020;28.01.2020;no
+22;male;Hefei City;Anhui;China;31.79444;117.3428;25.01.2020;28.01.2020;no
+30;male;Hefei City;Anhui;China;31.79444;117.3428;26.01.2020;28.01.2020;yes
+30;female;Hefei City;Anhui;China;31.79444;117.3428;26.01.2020;28.01.2020;yes
+64;female;Hefei City;Anhui;China;31.79444;117.3428;26.01.2020;28.01.2020;yes
+52;female;Hefei City;Anhui;China;31.79444;117.3428;26.01.2020;28.01.2020;yes
+45;female;Hefei City;Anhui;China;31.79444;117.3428;26.01.2020;28.01.2020;yes
+40;male;Hefei City;Anhui;China;31.79444;117.3428;26.01.2020;28.01.2020;no
+52;female;Hefei City;Anhui;China;31.79444;117.3428;22.01.2020;28.01.2020;no
+46;female;Xi'an City;Shaanxi;China;34.10727;108.7872;23.01.2020;29.01.2020;no
+49;male;Hanzhong City;Shaanxi;China;33.0928;107.1014;26.01.2020;29.01.2020;no
+36;male;Hanzhong City;Shaanxi;China;33.0928;107.1014;27.01.2020;29.01.2020;no
+29;male;Ankang City;Shaanxi;China;32.76183;108.9258;26.01.2020;29.01.2020;yes
+26;male;Ankang City;Shaanxi;China;32.76183;108.9258;20.01.2020;29.01.2020;yes
+27;male;Xianyang City;Shaanxi;China;34.78867;108.3897;26.01.2020;29.01.2020;yes
+46;male;Baoji City;Shaanxi;China;34.38244;107.2001;22.01.2020;29.01.2020;yes
+66;male;Xi'an City;Shaanxi;China;34.10727;108.7872;18.01.2020;29.01.2020;no
+3;female;Yan'an City;Shaanxi;China;36.44222;109.3161;27.01.2020;29.01.2020;no
+45;female;Xi'an City;Shaanxi;China;34.10727;108.7872;23.01.2020;29.01.2020;no
+56;female;Lorong Lew Lian;;Singapore;1.350633;103.8773;27.01.2020;28.01.2020;yes
+56;male;Lorong Lew Lian;;Singapore;1.350633;103.8773;27.01.2020;29.01.2020;yes
+56;male;;;Singapore;1.35346;103.8151;28.01.2020;29.01.2020;yes
+56;male;Pasir Ris Grove;;Singapore;1.371358;103.9453;26.01.2020;27.01.2020;yes
+35;male;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;24.01.2020;27.01.2020;yes
+36;;;;United Arab Emirates;23.92122;54.33112;25.01.2020;29.01.2020;yes
+;;;;United Arab Emirates;23.92122;54.33112;25.01.2020;29.01.2020;yes
+;;;;United Arab Emirates;23.92122;54.33112;27.01.2020;29.01.2020;yes
+;;;;United Arab Emirates;23.92122;54.33112;27.01.2020;29.01.2020;yes
+60-69;male;Melbourne;Victoria;Australia;-37.8136;144.9631;;29.01.2020;no
+40-49;female;;Osaka;Japan;34.62168;135.5076;23.01.2020;29.01.2020;no
+30-39;male;;Kanagawa Prefecture;Japan;35.41557;139.339;10.01.2020;16.01.2020;no
+56;female;Hefei City;Anhui;China;31.79444;117.3428;24.01.2020;29.01.2020;1
+49;male;Baohe District, Hefei City;Anhui;China;31.77863;117.3319;26.01.2020;29.01.2020;0
+34;female;Shushan District, Hefei City;Anhui;China;31.82562;117.2001;25.01.2020;29.01.2020;0
+71;male;Yaohai District, Hefei City;Anhui;China;31.89544;117.3384;27.01.2020;29.01.2020;0
+22;female;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;25.01.2020;29.01.2020;0
+16;female;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;26.01.2020;29.01.2020;0
+28;male;Chaohu City, Hefei City;Anhui;China;31.64696;117.7166;28.01.2020;29.01.2020;1
+47;female;Yaohai District, Hefei City;Anhui;China;31.89544;117.3384;;29.01.2020;0
+35;male;Hefei City;Anhui;China;31.79444;117.3428;;29.01.2020;0
+37;male;Hefei City;Anhui;China;31.79444;117.3428;;29.01.2020;1
+38;female;Manila;National Capital Region (NCR);Philippines;14.5958;120.9772;;30.01.2020;yes
+;female;;Kerala;India;10.45666;76.40405;;30.01.2020;yes
+50-59;male;Haneda Airport;Tokyo;Japan;35.553333;139.781111;29.01.2020;30.01.2020;yes
+;male;;Taiwan;;23.75947;120.9559;28.01.2020;30.01.2020;no
+50-59;male;;Mie;Japan;34.51017;136.3764;29.01.2020;30.01.2020;no
+20-29;female;;Kyoto Prefecture;Japan;35.255;135.4426;28.01.2020;30.01.2020;no
+30-39;female;;Tokyo;Japan;35.71145;139.4468;30.01.2020;30.01.2020;no
+55;male;Seoul;Seoul;South Korea;37.56667;126.9667;27.01.2020;30.01.2020;no
+33;male;Seoul;Seoul;South Korea;37.56667;126.9667;29.01.2020;30.01.2020;no
+60-69;male;Chicago;Illinois;United States;41.8781;-87.6298;;30.01.2020;no
+22;female;Zunyi City;Guizhou;China;28.17143;107.0848;;30.01.2020;yes
+35;male;Bijie City;Guizhou;China;27.06873;105.2156;;30.01.2020;yes
+72;male;Hong Kong;Hong Kong;China;22.38074;114.1324;29.01.2020;28.01.2020;yes
+73;female;Hong Kong;Hong Kong;China;22.38074;114.1324;29.01.2020;28.01.2020;yes
+;;Paris;Ile-de-France;France;48.8566;2.3522;;31.01.2020;no
+;male;Traunstein;Bavaria;Germany;47.86667;12.63333;;30.01.2020;no
+;;Traunstein;Bavaria;Germany;47.86667;12.63333;;31.01.2020;no
+20-29;female;Jonkoping;;Sweden;57.782778;14.160556;;31.01.2020;no
+;male;;;Thailand;15.17991;101.0156;;31.01.2020;no
+;;La Gomera;Canary Islands;Spain;28.380553;-17.2195269;;31.01.2020;no
+31;female;Shushan District, Hefei City;Anhui;China;31.82562;117.2001;30.01.2020;31.01.2020;0
+28;female;Lujiang County, Hefei City;Anhui;China;31.26968;117.32;;31.01.2020;0
+37;male;Yaohai District, Hefei City;Anhui;China;31.89544;117.3384;23.01.2020;31.01.2020;0
+51;female;Lujiang County, Hefei City;Anhui;China;31.26968;117.32;29.01.2020;31.01.2020;1
+45;female;Feidong County, Hefei City;Anhui;China;32.00123;117.5681;30.01.2020;31.01.2020;0
+27;female;Changfeng County, Hefei City;Anhui;China;32.2842;117.1614;29.01.2020;31.01.2020;0
+32;male;Hefei City;Anhui;China;31.79444;117.3428;28.01.2020;31.01.2020;1
+35;male;Hefei City;Anhui;China;31.79444;117.3428;30.01.2020;31.01.2020;0
+34;female;Hefei City;Anhui;China;31.79444;117.3428;30.01.2020;31.01.2020;0
+31;male;Chengguan District, Lanzhou City;Gansu;China;36.07809;103.8756;30.01.2020;01.02.2020;1
+65;male;Sanya City;Hainan;China;18.39084;109.4197;26.01.2020;01.02.2020;1
+48;female;Lingao County;Hainan;China;19.80185;109.7128;;01.02.2020;1
+63;female;Sanya City;Hainan;China;18.39084;109.4197;;01.02.2020;1
+40;male;Dalad Banner, Ordos City;Inner Mongolia;China;40.21311;109.8538;31.01.2020;01.02.2020;0
+70;female;Dali Prefecture;Yunnan;China;25.73038;100.037;26.01.2020;01.02.2020;1
+53;female;Yuxi City;Yunnan;China;24.14295;102.2032;01.02.2020;01.02.2020;0
+72;male;Hongta District, Yuxi City;Yunnan;China;24.36679;102.4916;31.01.2020;01.02.2020;0
+45;female;Kunming City;Yunnan;China;25.39236;102.8739;01.02.2020;01.02.2020;1
+62;female;Yuxi City;Yunnan;China;24.14295;102.2032;31.01.2020;01.02.2020;1
+73;male;Ho Chi Minh City;;Vietnam;10.77845;106.693904;31.01.2020;02.02.2020;no
+25;female;Hotel Ton Dan Street, Nha Trang;Khanh Hoa;Vietnam;12.237763;109.193574;27.01.2020;31.01.2020;no
+;;;Kerala;India;10.45666;76.40405;;02.02.2020;yes
+44;male;Manila;National Capital Region (NCR);Philippines;14.5958;120.9772;;01.02.2020;yes
+60;male;;South Australia;Australia;-30.22263;135.869;;01.02.2020;yes
+60;female;;South Australia;Australia;-30.22263;135.869;;01.02.2020;yes
+20-29;female;Melbourne;Victoria;Australia;-37.8136;144.9631;30.01.2020;01.02.2020;no
+28;male;Seoul;Seoul;South Korea;37.56667;126.9667;29.01.2020;30.01.2020;no
+62;female;Gunsan;;South Korea;35.983333;126.716667;30.01.2020;31.01.2020;no
+30-39;male;;;Japan;37.84798;138.1427;;31.01.2020;no
+50-59;male;;;Japan;37.84798;138.1427;;31.01.2020;no
+73;female;Park Royal Collection Pickering and Oasia Hotel Downtown;;Singapore;1.2855985;103.8440488;28.01.2020;30.01.2020;yes
+31;female;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;27.01.2020;29.01.2020;yes
+80;male;New Territories;Hong Kong;China;22.407;114.122;30.01.2020;01.02.2020;no
+64;male;Qishan County, Baoji City;Shaanxi;China;34.40641;107.6779;30.01.2020;02.02.2020;no
+74;male;Wangyi District, Tongchuan City;Shaanxi;China;35.03984;109.0673;25.01.2020;02.02.2020;no
+62;female;Wugong County, Xianyang City;Shaanxi;China;34.31159;108.1799;31.01.2020;02.02.2020;no
+5;female;Hanbin District, Ankang City;Shaanxi;China;32.81089;108.8847;27.01.2020;02.02.2020;no
+68;female;Hanzhong City;Shaanxi;China;33.0928;107.1014;31.01.2020;02.02.2020;no
+70;male;Hanzhong City;Shaanxi;China;33.0928;107.1014;31.01.2020;02.02.2020;no
+39;male;Xi'an City;Shaanxi;China;34.10727;108.7872;29.01.2020;02.02.2020;yes
+48;male;Xi'an City;Shaanxi;China;34.10727;108.7872;27.01.2020;02.02.2020;yes
+72;male;Xi'an City;Shaanxi;China;34.10727;108.7872;27.01.2020;02.02.2020;yes
+73;female;Xi'an City;Shaanxi;China;34.10727;108.7872;27.01.2020;01.02.2020;yes
+34;female;Beilin District, Xi'an City;Shaanxi;China;34.24815;108.9538;22.01.2020;02.02.2020;no
+50;female;Xincheng District, Xi'an City;Shaanxi;China;34.27348;108.9863;01.02.2020;02.02.2020;no
+36;male;Gaoling County, Xi'an City;Shaanxi;China;34.50897;109.0626;28.01.2020;02.02.2020;yes
+56;female;Baqiao District, Xi'an City;Shaanxi;China;34.3024;109.0889;29.01.2020;02.02.2020;no
+26;male;Chengguan District, Lanzhou City;Gansu;China;36.07809;103.8756;30.01.2020;02.02.2020;no
+73;female;Xigu District, Lanzhou City;Gansu;China;36.12968;103.519;31.01.2020;02.02.2020;no
+44;male;Xigu District, Lanzhou City;Gansu;China;36.12968;103.519;26.01.2020;02.02.2020;no
+36;male;Ningxian County, Qingyang City;Gansu;China;35.56591;108.1031;28.01.2020;02.02.2020;yes
+38;female;Linxia City, Linxia Prefecture;Gansu;China;35.58106;103.1937;01.02.2020;02.02.2020;no
+20;female;Lixian County, Longnan City;Gansu;China;34.10804;105.0565;26.01.2020;02.02.2020;no
+64;female;Maiji District, Tianshui City;Gansu;China;34.415;106.1453;30.01.2020;02.02.2020;no
+59;male;Maiji District, Tianshui City;Gansu;China;34.415;106.1453;30.01.2020;02.02.2020;yes
+39;female;Maiji District, Tianshui City;Gansu;China;34.415;106.1453;30.01.2020;02.02.2020;yes
+46;female;Qinzhou District, Tianshui City;Gansu;China;34.40163;105.6275;30.01.2020;02.02.2020;no
+94;female;Maiji District, Tianshui City;Gansu;China;34.415;106.1453;30.01.2020;02.02.2020;no
+72;female;Block 1, Site 11, Whampao Garden;Hong Kong;China;22.3044127;114.1870613;01.02.2020;02.02.2020;no
+57;female;San Benito County;California;United States;36.60637;-121.075;;02.02.2020;no
+52;female;Xi'an City;Shaanxi;China;34.10727;108.7872;25.01.2020;03.02.2020;yes
+50;male;Xi'an City;Shaanxi;China;34.10727;108.7872;31.01.2020;03.02.2020;yes
+38;male;Weinan City;Shaanxi;China;34.95553;109.8585;30.01.2020;03.02.2020;yes
+47;male;Ankang City;Shaanxi;China;32.76183;108.9258;;03.02.2020;yes
+43;male;Tianjin City;Tianjin;China;39.29713;117.3333;27.01.2020;03.02.2020;yes
+8;male;Gold Coast;Queensland;Australia;-28.0167;153.4;;04.02.2020;yes
+9;male;Tianjin City;Tianjin;China;39.29713;117.3333;02.02.2020;03.02.2020;yes
+51;male;High Tech Zone, Weibin District, Baoji City;Shaanxi;China;34.345903;107.2712232;02.02.2020;04.02.2020;no
+64;female;Danfeng County, Shangluo City;Shaanxi;China;33.68015;110.4319;02.02.2020;04.02.2020;no
+65;male;Danfeng County, Shangluo City;Shaanxi;China;33.68015;110.4319;02.02.2020;04.02.2020;no
+65;female;Weiyang District, Xi'an City;Shaanxi;China;34.34604;108.9099;01.02.2020;04.02.2020;no
+52;male;Hu County, Xi'an City;Shaanxi;China;34.001;108.5816;;04.02.2020;no
+33;male;Xianyang City;Shaanxi;China;34.78867;108.3897;01.02.2020;04.02.2020;no
+41;female;Xianyang City;Shaanxi;China;34.78867;108.3897;01.02.2020;04.02.2020;no
+51;male;Baqiao District, Xi'an City;Shaanxi;China;34.3024;109.0889;31.01.2020;04.02.2020;no
+37;male;Baqiao District, Xi'an City;Shaanxi;China;34.3024;109.0889;28.01.2020;04.02.2020;no
+41;male;Yangling District, Xianyang City;Shaanxi;China;34.2851;108.0477;01.02.2020;04.02.2020;no
+45;female;Yanta District, Xi'an City;Shaanxi;China;34.20667;108.9416;02.02.2020;04.02.2020;no
+41;male;Zhenba County, Hanzhong City;Shaanxi;China;32.51348;107.8716;31.01.2020;04.02.2020;no
+25;male;To Kwa Wan;Hong Kong;China;22.319558;114.187767;03.02.2020;04.02.2020;no
+66;female;Baodi District;Tianjin;China;39.60828;117.4002;;05.02.2020;no
+51;female;Baodi District;Tianjin;China;39.60828;117.4002;05.02.2020;07.02.2020;no
+65;male;Baodi District;Tianjin;China;39.60828;117.4002;05.02.2020;07.02.2020;no
+;;Baoshan District;Shanghai;China;31.38761;121.5247;;05.02.2020;no
+;;Baoshan District;Shanghai;China;31.38761;121.5247;;05.02.2020;no
+;;Baoshan District;Shanghai;China;31.38761;121.5247;;05.02.2020;no
+64;female;Kowloon;Hong Kong;China;22.319751;114.18612;01.02.2020;04.02.2020;no
+60;female;Qiziwan, Changjiang County;Hainan;China;19.361245;108.8609777;01.02.2020;02.02.2020;0
+;;Changning District;Shanghai;China;31.20946;121.3757;;05.02.2020;no
+77;female;Chengguan District, Lanzhou City;Gansu;China;36.07809;103.8756;26.01.2020;03.02.2020;no
+12;female;Chuxiong Prefecture;Yunnan;China;25.35525;101.569;03.02.2020;04.02.2020;yes
+15;male;Dali Prefecture;Yunnan;China;25.73038;100.037;;06.02.2020;yes
+60;female;Fangchenggang City;Guangxi;China;21.88401;107.9967;03.02.2020;05.02.2020;yes
+;;Fengxian District;Shanghai;China;30.91111;121.5517;;05.02.2020;yes
+37;female;Gold Coast;Queensland;Australia;-28.0167;153.4;;06.02.2020;no
+37;male;Gold Coast;Queensland;Australia;-28.0167;153.4;;05.02.2020;yes
+69;male;Haikou City;Hainan;China;19.83166;110.4222;29.01.2020;02.02.2020;1
+32;female;Haikou City;Hainan;China;19.83166;110.4222;31.01.2020;02.02.2020;1
+55;female;Feixi County, Hefei City;Anhui;China;31.72762;117.0201;05.02.2020;05.02.2020;no
+48;female;Yaohai District, Hefei City;Anhui;China;31.89544;117.3384;03.02.2020;05.02.2020;no
+43;female;Xinzhan District, Hefei City;Anhui;China;31.8947345;117.3260293;04.02.2020;05.02.2020;no
+35;male;Shushan District, Hefei City;Anhui;China;31.82562;117.2001;03.02.2020;05.02.2020;no
+29;male;Shushan District, Hefei City;Anhui;China;31.82562;117.2001;04.02.2020;05.02.2020;no
+51;male;Lujiang County, Hefei City;Anhui;China;31.26968;117.32;03.02.2020;05.02.2020;yes
+35;male;Luyang District, Hefei City;Anhui;China;31.92046;117.1894;03.02.2020;05.02.2020;no
+28;female;Xinzhan District, Hefei City;Anhui;China;31.8947345;117.3260293;02.02.2020;05.02.2020;no
+78;female;Xinzhan District, Hefei City;Anhui;China;31.8947345;117.3260293;30.01.2020;05.02.2020;no
+38;female;Xinzhan District, Hefei City;Anhui;China;31.8947345;117.3260293;03.02.2020;05.02.2020;no
+36;male;Luyang District, Hefei City;Anhui;China;31.92046;117.1894;01.02.2020;05.02.2020;no
+56;male;Hong Kong;Hong Kong;China;22.38074;114.1324;;05.02.2020;no
+;female;Hong Kong;Hong Kong;China;22.38074;114.1324;;05.02.2020;no
+;female;Hong Kong;Hong Kong;China;22.38074;114.1324;;05.02.2020;no
+;;Hongkou District;Shanghai;China;31.27901;121.4809;;05.02.2020;yes
+;;Hongkou District;Shanghai;China;31.27901;121.4809;;05.02.2020;yes
+;;Jiading District;Shanghai;China;31.35979;121.2389;;05.02.2020;yes
+;;Jing'an District;Shanghai;China;31.2701;121.447;;05.02.2020;yes
+;;Jing'an District;Shanghai;China;31.2701;121.447;;05.02.2020;no
+35;female;Lianhu District, Xi'an City;Shaanxi;China;34.27251;108.8962;;05.02.2020;no
+;;Madison;Wisconsin;United States;43.08491;-89.5465;;;no
+;;Minhang District;Shanghai;China;31.08938;121.414;;05.02.2020;yes
+;;Pudong District;Shanghai;China;31.10622;121.7257;;05.02.2020;yes
+;;Pudong District;Shanghai;China;31.10622;121.7257;;05.02.2020;no
+;;Qingpu District;Shanghai;China;31.12558;121.0784;;05.02.2020;no
+59;male;Qionghai City;Hainan;China;19.20959;110.4018;31.01.2020;02.02.2020;1
+22;female;Qujing City;Yunnan;China;25.70936;103.9368;31.01.2020;04.02.2020;no
+;;;Shanghai;China;31.2045;121.4555;;05.02.2020;no
+;;;Shanghai;China;31.2045;121.4555;;05.02.2020;no
+;;Songjiang District;Shanghai;China;31.01539;121.2152;;05.02.2020;yes
+50-59;female;Vancouver;British Columbia;Canada;49.25;-123.1;;04.02.2020;no
+65;male;Baimajing Town, Danzhou City;Hainan;China;19.6964266;109.2099792;01.02.2020;02.02.2020;1
+50;male;Weiyang District, Xi'an City;Shaanxi;China;34.34604;108.9099;03.02.2020;05.02.2020;no
+49;male;Wenchang City;Hainan;China;19.74459;110.771;01.02.2020;02.02.2020;1
+66;male;Xincheng District, Xi'an City;Shaanxi;China;34.27348;108.9863;01.02.2020;05.02.2020;no
+67;female;Baqiao District, Xi'an City;Shaanxi;China;34.3024;109.0889;03.02.2020;05.02.2020;no
+33;male;Xixian New District, Xi'an City;Shaanxi;China;34.316191;108.85;31.01.2020;05.02.2020;no
+;;Xuhui District;Shanghai;China;31.16504;121.4345;;05.02.2020;no
+;;Xuhui District;Shanghai;China;31.16504;121.4345;;05.02.2020;no
+53;female;Yanliang District, Xi'an City;Shaanxi;China;34.66112;109.2917;;05.02.2020;no
+50;female;Yanta District, Xi'an City;Shaanxi;China;34.20667;108.9416;01.02.2020;05.02.2020;no
+60;male;Lam Tin;Hong Kong;China;22.307989;114.234404;30.01.2020;04.02.2020;no
+61;female;;Tianjin;China;39.29713;117.3333;28.01.2020;02.02.2020;yes
+30-39;female;;Chiba Prefecture;Japan;35.51151;140.1992;31.01.2020;04.02.2020;yes
+;;;Shanghai;China;31.2045;121.4555;;05.02.2020;yes
+;;;Shanghai;China;31.2045;121.4555;;05.02.2020;yes
+40-49;male;;Chiba Prefecture;Japan;35.51151;140.1992;27.01.2020;05.02.2020;yes
+50-59;female;;Taiwan;;23.75947;120.9559;04.02.2020;06.02.2020;no
+50-59;male;;Taiwan;;23.75947;120.9559;04.02.2020;06.02.2020;no
+40-49;female;;Taiwan;;23.75947;120.9559;05.02.2020;06.02.2020;no
+40-49;male;;Taiwan;;23.75947;120.9559;04.02.2020;05.02.2020;no
+20-29;female;;Taiwan;;23.75947;120.9559;04.02.2020;05.02.2020;yes
+53;male;Changi General Hospital;;Singapore;1.34032;103.94957;01.02.2020;06.02.2020;no
+42;female;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;05.02.2020;06.02.2020;no
+39;female;Sengkang General Hospital;;Singapore;1.395495;103.8934;02.02.2020;06.02.2020;no
+84;female;Zunyi City;Guizhou;China;28.17143;107.0848;;07.02.2020;no
+39;;Zunyi City;Guizhou;China;28.17143;107.0848;06.02.2020;07.02.2020;no
+68;male;Zunyi City;Guizhou;China;28.17143;107.0848;03.02.2020;07.02.2020;no
+49;male;Bijie City;Guizhou;China;27.06873;105.2156;;07.02.2020;no
+24;female;Bijie City;Guizhou;China;27.06873;105.2156;;07.02.2020;no
+21;male;Bijie City;Guizhou;China;27.06873;105.2156;;07.02.2020;no
+55;male;Bijie City;Guizhou;China;27.06873;105.2156;;07.02.2020;no
+33;male;Qianxinan Prefecture;Guizhou;China;25.26714;105.4632;;07.02.2020;yes
+63;female;Zunyi City;Guizhou;China;28.17143;107.0848;;06.02.2020;no
+30;female;Guiyang City;Guizhou;China;26.84311;106.7064;;06.02.2020;no
+64;male;Guiding County, Qiannan Prefecture;Guizhou;China;26.43055;107.1928;;06.02.2020;no
+38;female;Guiyang City;Guizhou;China;26.84311;106.7064;;06.02.2020;no
+35;female;Guiyang City;Guizhou;China;26.84311;106.7064;;06.02.2020;no
+67;;Guiyang City;Guizhou;China;26.84311;106.7064;;06.02.2020;no
+60-60;female;Nagoya City;Aichi Prefecture;Japan;35.18333;136.9;14.02.2020;15.02.2020;no
+30-39;male;Vancouver;British Columbia;Canada;49.25;-123.1;;06.02.2020;yes
+30-39;female;Vancouver;British Columbia;Canada;49.25;-123.1;;06.02.2020;yes
+50-59;male;;Chiba Prefecture;Japan;35.51151;140.1992;08.02.2020;10.02.2020;yes
+23;male;Zhuanglang County, Pingliang City;Gansu;China;35.25054;106.0543;08.02.2020;09.02.2020;1
+38;female;Fangchenggang City;Guangxi;China;21.88401;107.9967;28.01.2020;30.01.2020;yes
+4;female;Guiyang City;Guizhou;China;26.84311;106.7064;;08.02.2020;no
+39;female;;Guizhou;China;26.82942;106.8782;;08.02.2020;yes
+33;male;Qianxinan Prefecture;Guizhou;China;25.26714;105.4632;;07.02.2020;yes
+51;female;Wanning City;Hainan;China;18.83795;110.2876;01.02.2020;03.02.2020;1
+51;male;Tsing Yi;Hong Kong;China;22.3445126;114.0633117;10.02.2020;12.02.2020;no
+;;Yokohama Port;Kanagawa Prefecture;Japan;35.45085;139.6651;;12.02.2020;no
+;male;Mallorca;Baleares;Spain;39.6132096;2.3511398;;09.02.2020;no
+;;Bamrasnaradura Hospital;Nonthaburi;Thailand;13.8538;100.5228;;08.02.2020;Yes
+29;male;Luzzara, Reggio Emilia;Emilia-Romagna;Italy;44.95971;10.68922;;06.02.2020;no
+;;;Shanghai;China;31.2045;121.4555;;06.02.2020;yes
+20-29;male;Haneda Airport;Tokyo;Japan;35.553333;139.781111;;08.02.2020;yes
+29;female;Thien Ke commune, Binh Xuyen District;Vinh Phuc;Vietnam;21.3273973;105.6300501;;07.02.2020;no
+55;female;Son Loi commune, Binh Xuyen District;Vinh Phuc;Vietnam;21.276162;105.678812;04.02.2020;09.02.2020;no
+0.25;female;Quat Luu commune, Binh Xuyen District;Vinh Phuc;Vietnam;21.2847242;105.6194791;;11.02.2020;no
+50-59;male;Yuasa-cho;Wakayama Prefecture;Japan;34.0351325;135.1498905;14.02.2020;15.02.2020;no
+7;male;;Yunnan;China;25.01087;101.4838;;08.02.2020;yes
+8;male;Kunming City;Yunnan;China;25.39236;102.8739;10.02.2020;10.02.2020;1
+10;male;Dali Prefecture;Yunnan;China;25.73038;100.037;10.02.2020;10.02.2020;1
+62;female;Tengchong City, Baoshan City;Yunnan;China;25.2764;98.49303;26.01.2020;06.02.2020;yes
+39;male;Dali Prefecture;Yunnan;China;25.73038;100.037;;06.02.2020;yes
+50-59;male;;;Japan;37.84798;138.1427;26.02.2020;04.02.2020;yes
+31;male;;Selangor;Malaysia;3.27094;101.4988;07.02.2020;09.02.2020;no
+34;male;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;10.02.2020;11.02.2020;no
+46;male;National University Hospital;;Singapore;1.295083;103.782833;10.02.2020;11.02.2020;no
+51;female;Ang Mo Kio Avenue 3;;Singapore;1.368968;103.857296;12.02.2020;14.02.2020;no
+57;male;Jurong West Street 64;;Singapore;1.341101;103.703948;12.02.2020;14.02.2020;no
+79;female;Mei Hwan Drive;;Singapore;1.353873;103.860478;;14.02.2020;no
+26;male;;;Singapore;1.35346;103.8151;14.02.2020;15.02.2020;no
+;;Lyon;Auvergne-Rhone-Alpes;France;45.76;4.84;;15.02.2020;no
+70-79;male;Nagoya City;Aichi Prefecture;Japan;35.18333;136.9;20.02.2020;21.02.2020;no
+20-29;female;Nagoya City;Aichi Prefecture;Japan;35.18333;136.9;21.02.2020;21.02.2020;no
+60-69;male;Katsuura;Chiba Prefecture;Japan;35.1795407;140.1961996;21.02.2020;21.02.2020;no
+50-59;male;;Ishikawa;Japan;36.77347;136.7721;20.02.2020;21.02.2020;no
+60-69;female;Chiba City;Chiba Prefecture;Japan;35.6040591;140.0212538;19.02.2020;22.02.2020;No
+50-59;male;Sagamihara City;Kanagawa Prefecture;Japan;35.56667;139.3667;21.02.2020;22.02.2020;No
+50-59;female;Sagamihara City;Kanagawa Prefecture;Japan;35.56667;139.3667;;22.02.2020;No
+20-29;female;Sagamihara City;Kanagawa Prefecture;Japan;35.56667;139.3667;;22.02.2020;No
+20-29;female;Sagamihara City;Kanagawa Prefecture;Japan;35.56667;139.3667;;22.02.2020;No
+50-59;female;;Chiba Prefecture;Japan;35.51151;140.1992;21.02.2020;22.02.2020;No
+60-69;male;;Tokyo;Japan;35.71145;139.4468;19.02.2020;22.02.2020;No
+30;female;Hougang Street 91;;Singapore;1.374872;103.886403;21.02.2020;21.02.2020;No
+41;male;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;;22.02.2020;No
+96;female;Tin Hau;Hong Kong;China;22.2826304;114.1881211;22.02.2020;22.02.2020;No
+62;male;Fangchenggang City;Guangxi;China;21.88401;107.9967;29.01.2020;03.02.2020;yes
+53;male;Lanzhou City;Gansu;China;36.35126;103.6554;24.01.2020;31.01.2020;1
+68;male;Tianshui City;Gansu;China;34.64971;105.7378;;31.01.2020;1
+20;female;Linxia Prefecture;Gansu;China;35.63012;103.2798;24.01.2020;24.01.2020;yes
+75;female;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;23.02.2020;23.02.2020;No
+58;female;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;18.02.2020;22.02.2020;No
+47;male;Sengkang General Hospital;;Singapore;1.395495;103.8934;24.02.2020;26.02.2020;No
+38;male;Ng Teng Fong General Hospital;;Singapore;1.3337502;103.7432028;25.02.2020;26.02.2020;No
+18-65;female;Helsinki, Uusimaa;Southern Finland;Finland;60.1096641;24.4582463;;26.02.2020;No
+50;female;Skopje;;North Macedonia;42.004937;21.422486;26.02.2020;26.02.2020;No
+62;male;Seville;Andalusia;Spain;37.386005;-5.983039;;26.02.2020;no
+22;male;;Catalonia;Spain;41.80377405;1.530936998;;26.02.2020;no
+;female;Tenerife;Canary Islands;Spain;28.31389166;-17.02139987;;24.02.2020;no
+24;female;Madrid;;Spain;40.4290527;-4.1856014;;25.02.2020;no
+;;Madrid;;Spain;40.4290527;-4.1856014;;25.02.2020;no
+;male;Villarreal;Valencian Community;Spain;39.9365708;-0.1418095;;25.02.2020;no
+36;female;Barcelona;;Spain;41.3949627;2.0086793;;25.02.2020;no
+;male;Tenerife;Canary Islands;Spain;28.31389166;-17.02139987;;24.02.2020;no
+22;male;Karachi;Sindh;Pakistan;24.865704;67.016033;;26.02.2020;no
+38;female;Thessaloniki;Macedonia;Greece;40.6192194;22.8924855;;26.02.2020;no
+35;male;;Herat;Afghanistan;34.341944;62.203056;;24.02.2020;no
+80-89;male;;Taiwan;;23.75947;120.9559;09.02.2020;23.02.2020;no
+20;male;Prigoria;Gorj;Romania;45.066667;23.683333;;25.02.2020;no
+50;male;;;Georgia;42.18516;43.5106;;26.02.2020;no
+21;Female;Hong Kong;Hong Kong;China;22.38074;114.1324;27.02.2020;27.02.2020;no
+16;Male;Hong Kong;Hong Kong;China;22.38074;114.1324;27.02.2020;27.02.2020;no
+80;Male;Hong Kong;Hong Kong;China;22.38074;114.1324;25.02.2020;25.02.2020;no
+;Female;Hong Kong;Hong Kong;China;22.38074;114.1324;20.02.2020;24.02.2020;no
+33;Male;Hong Kong;Hong Kong;China;22.38074;114.1324;24.02.2020;24.02.2020;no
+55;Female;Hong Kong;Hong Kong;China;22.38074;114.1324;24.02.2020;24.02.2020;no
+24;Male;Hong Kong;Hong Kong;China;22.38074;114.1324;;24.02.2020;no
+60;Female;Hong Kong;Hong Kong;China;22.38074;114.1324;24.02.2020;24.02.2020;no
+;;Valle Gran Rey, La Gomera;Canary Islands;Spain;28.085954;-17.334291;;26.02.2020;no
+;;Rijeka;;Croatia;45.328024;14.442247;;26.02.2020;no
+25;male;Zagreb;;Croatia;45.809144;15.981763;;26.02.2020;no
+25;male;Zagreb;;Croatia;45.809144;15.981763;;25.02.2020;no
+50;male;;;Georgia;42.18516;43.5106;;26.02.2020;no
+64;female;Singapore General Hospital;;Singapore;1.280224;103.8345;24.02.2020;26.02.2020;No
+44;male;National Centre for Infectious Diseases;;Singapore;1.322098;103.8472;;27.02.2020;No
+12;male;KK Women's and Children's Hospital;;Singapore;#N/A;#N/A;;27.02.2020;No
+34;male;Tallinn;;Estonia;59.437222;24.745278;;26.02.2020;no
+50-59;male;Jonkoping;;Sweden;57.782778;14.160556;;28.02.2020;no
+;female;Uppsala;;Sweden;59.858056;17.644722;;27.02.2020;no
+;;Uppsala;;Sweden;59.858056;17.644722;;28.02.2020;no
+30-39;male;Gothenburg;;Sweden;57.7;11.966667;;26.02.2020;no
+30-39;;Vastra Gotaland;;Sweden;58.217025;11.733398;;27.02.2020;no
+30-39;;Vastra Gotaland;;Sweden;58.217025;11.733398;;27.02.2020;no
+30-39;;Vastra Gotaland;;Sweden;58.217025;11.733398;;27.02.2020;no
+;;Stockholm;;Sweden;59.329444;18.068611;;27.02.2020;no
