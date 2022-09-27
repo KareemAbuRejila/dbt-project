@@ -56,3 +56,20 @@ kafka-console-consumer --zookeeper localhost:2181 --topic COVID19_LINES --from-b
 
 -- dir  /home/cloudera/Desktop/Kafka/bin
 sudo ./kafka-server-start.sh ../config/server.properties 
+
+
+
+##Project Archtiture
+
+[![Project Archtiture](https://github.com/KareemAbuRejila/dbt-project/blob/eaba986e1613070973e888c8c96d259490cf0c5d/images/archit.png)
+
+
+## Chart deaths by Country 1
+
+[![Phart deaths by Country](https://github.com/KareemAbuRejila/dbt-project/blob/eaba986e1613070973e888c8c96d259490cf0c5d/images/bycountry.pdf)
+
+
+## Chart deaths by Country 2
+
+[![Phart deaths by Country](https://github.com/KareemAbuRejila/dbt-project/blob/eaba986e1613070973e888c8c96d259490cf0c5d/images/deaths.pdfg)
+
